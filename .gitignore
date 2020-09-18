@@ -2,6 +2,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 webreceitas/__pycache__/
+static
 *.py[cod]
 *$py.class
 
